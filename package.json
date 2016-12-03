@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1",
+    "nodemon": "^1.11.0",
+    "sequelize": "^3.27.0",
+    "twitter": "^1.4.0",
+    "yelp": "^1.0.1"
+  }
+}
